@@ -1,3 +1,4 @@
+// for the alert
 var intro = prompt('Whats your name?')
 document.getElementById("introduction").innerHTML =
 "Happy Birthday " + intro + " !🎉 ";
