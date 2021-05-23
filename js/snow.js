@@ -18,7 +18,7 @@ particlesJS(
                     "type":"image",
                    
                     "image":{
-                        "src":"../images/img2.png",
+                        "src":"./images/img2.png",
                         "width":100,
                         "height":80
                     }
