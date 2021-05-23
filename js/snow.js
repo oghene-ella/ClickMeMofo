@@ -17,7 +17,7 @@ particlesJS(
                     "type":"image",
                    
                     "image":{
-                        "src":"https://i.pinimg.com/originals/9d/79/f1/9d79f11547a0edd240cf6178e9a5a871.gif",
+                        "src":"./images/img2.png",
                         "width":100,
                         "height":80
                     }

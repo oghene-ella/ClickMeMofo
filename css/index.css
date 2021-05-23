@@ -44,16 +44,17 @@ img.birthday{
         max-height: 50vh
     }
 }
-@media only screen and (max-height:640px){
+@media only screen and (min-width:361px) and (max-width:640px){
     .card{
         flex-direction: row-reverse;
+        font-size:15px;
     }
     .card img.birthday{
-        max-width:60vw;
+        max-width:45vw;
         max-height: 40vh
     }
 }
-@media only screen and (max-height:260px){
+@media only screen and (max-height:360px){
     .card{
         flex-direction: row-reverse;
         font-size:15px;
